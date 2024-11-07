@@ -1,0 +1,3 @@
+A*
+Steps: 19, Total Weight: 2, Nodes Generated: 120, Time Taken: 0.049453s, Memory Used: 116936 bytes
+drddrdddruuuuuruldl
